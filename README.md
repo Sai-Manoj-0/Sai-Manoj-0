@@ -49,28 +49,4 @@
 
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E41E25?style=flat-square&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST_CSF-003087?style=flat-square&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-005A8E?style=flat-square&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tools |
-|---|---|---|
-| 🤖 AI-Powered SOC Alert Triage | GPT + Splunk pipeline — cuts analyst triage time by ~40% | Python · OpenAI API · Splunk · MITRE ATT&CK |
-| 🛡️ Agentic SOC Copilot | LangChain agent that auto-enriches IOCs & drafts IR reports | LangChain · Python · VirusTotal API · Shodan |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojreddy20&show_icons=true&theme=github_dark&hide_border=true&title_color=00dcff&icon_color=00ff88&text_color=c8e8ff" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojreddy20&theme=github-dark-blue&hide_border=true&stroke=00dcff&ring=00dcff&fire=00ff88&currStreakLabel=00dcff" width="48%"/>
-</p>
-
----
-
-<p align="center">
-  <i>"The best defense is knowing how the offense thinks."</i>
-</p>
+![ISO 27001](https://im
